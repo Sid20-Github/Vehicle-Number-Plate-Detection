@@ -1,0 +1,4 @@
+cv2
+
+Install cv2 using command:
+    pip install opencv-python
